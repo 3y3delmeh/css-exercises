@@ -18,7 +18,12 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you use all three methods of adding CSS to an HTML file?
+    Yes, I used all the methods that I've learned from the course lesson.
 - Did you properly link the external CSS file in the HTML file?
+    Yes, I did. Just by adding `link rel="stylesheet" href="folder/path"`into the index file and then I created css file on the same folder.
 - Does the `div` element have CSS added via the external method?
+    Yes, I just put element selector which is div and put all the rest of the declarations.
 - Does the `p` element have CSS added via the internal method?
+    Yes, by just simply adding `style { //declarations }` inside the head element.
 - Does the `button` element have CSS added via the inline method?
+    Yes, I just put `style="declarations"` inside the button element.
