@@ -16,5 +16,8 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 - Does each element have a unique class name?
+    Yes, I named them differently by just adding a class name `btn-one` and `btn-two`
 - Did you use the grouping selector for styles that both elements share?
+    Yes, on the `style.css` I grouped the class selectors with comma.
 - Did you make separate rules for the styles unique to each element?
+    Yes, because they have different colors in the reference so I separated the rules with each element.
