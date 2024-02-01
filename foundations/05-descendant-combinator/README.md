@@ -15,4 +15,6 @@ The properties you need to add are:
 
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
+    Yes, I just called the two div ancestors which are container and p as text in the css so all that of that elements will have same style.
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+    Yes, because in the outcome photo there's no style so I leave the code without changing anything.
