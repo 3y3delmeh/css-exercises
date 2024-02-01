@@ -19,5 +19,8 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you properly chain class selectors for each rule?
+    Yes, I just put in `style.css` for chaining class selectors with a period without whitespace just like this `.avatar.proportioned` and `.avatar.distorted` 
 - Does the `proportioned` image retain its original square proportions?
+    Yes, because I learned in the css foundation course if you declare auto it will automatically proportioned with the declared width.
 - Does the `distorted` image end up looking squished and, well, distorted?
+    Yes, because the I added uneven proportioned pixels in the `style.css` same as the desired outcome photo.
